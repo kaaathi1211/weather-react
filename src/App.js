@@ -1,5 +1,4 @@
 import "./App.css";
-import axios from "axios";
 import Search from "./Search";
 import Forecast from "./Forecast";
 
@@ -27,18 +26,18 @@ function App() {
       <footer>
         <p>
           Coded by{" "}
-          <a href="https://github.com/kaaathi1211" target="_blank" rel="nonreferrer">
+          <a href="https://github.com/kaaathi1211" target="_blank" rel="noreferrer">
             Katharina Krotke,
           </a>{" "}
           is{" "}
           <a
-            href="https://github.com/kaaathi1211/Kate-weather-app"
-            target="_blank" rel="nonreferrer"
+            href="https://github.com/kaaathi1211/weather-react"
+            target="_blank" rel="noreferrer"
           >
             open-sourced on GitHub{" "}
           </a>
           and hosted on{" "}
-          <a href="https://kate-weather-app.netlify.app/" target="_blank" rel="nonreferrer"> 
+          <a href="https://kate-weather-app.netlify.app/" target="_blank" rel="noreferrer"> 
             Netlify.
           </a>
         </p>

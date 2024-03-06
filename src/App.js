@@ -37,7 +37,7 @@ function App() {
             open-sourced on GitHub{" "}
           </a>
           and hosted on{" "}
-          <a href="https://kate-weather-app.netlify.app/" target="_blank" rel="noreferrer"> 
+          <a href="https://master--super-cat-98df06.netlify.app/" target="_blank" rel="noreferrer"> 
             Netlify.
           </a>
         </p>
